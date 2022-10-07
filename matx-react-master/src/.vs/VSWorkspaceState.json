@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\components",
+    "\\app\\views",
+    "\\app\\views\\dashboard",
+    "\\app\\views\\employee"
+  ],
+  "SelectedNode": "\\app\\views\\employee\\EditEmployee.jsx",
+  "PreviewInSolutionExplorer": false
+}
